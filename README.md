@@ -94,8 +94,17 @@ cd Offline-realtime-subtitle-genarator
 ```  
 5. First-Time Setup in the GUI
   1. **Download Whisper Model**: In Section 1, select large-v3-turbo (recommended for speed) and click ⬇ Download Whisper. Wait for the progress bar to reach 100%.
+
+   ![App Screenshot](./screenshots/shot3.png)
+
   2. **Download Offline Translation Pack** : In Section 2, select your source language pair (e.g., Japanese → English (ja → en)) from the dropdown and click ⬇ Download Pack (or ⬇ Install All → EN).
+
+   ![App Screenshot](./screenshots/shot2.png)
+
   3. **Configure Audio & Language** : In Section 3, select Stereo Mix (or your microphone) as the Audio Source, pick your Input Language (or Auto-Detect), and select English (Offline Argos Translate).
+
+   ![App Screenshot](./screenshots/shot1.png)
+
   4. **Start & Position Subtitles** : Click  **Start Subtitles** , then click and drag the dark floating subtitle bar right underneath your video player.
 
 ## Tuning Tips
